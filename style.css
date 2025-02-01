@@ -286,6 +286,8 @@ section {
 .about-pic {
   border-radius: 2rem;
   align-self: center;
+  height: 300px;
+  width: 300px;
 }
 
 .arrow {
